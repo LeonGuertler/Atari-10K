@@ -1,0 +1,189 @@
+BREAKOUT
+
+(c) 1978 Atari, Inc.
+
+
+Use your Standard Paddle Controllers with this ATARI Game Program. Be sure the Controller cable is firmly plugged into the jack at the rear of your ATARI Video Computer System. Note that another set of Paddle Controllers will be necessary for three or four-player games.
+
+Note:  Always turn the console power switch OFF when inserting or removing an ATARI Game Program. This will protect the electronic components and prolong the life of your ATARI Video Computer System.
+
+
+HOW TO PLAY BREAKOUT
+
+SMASH!  POW!  CRUNCH!  A brick wall appears at the top of the screen, and your missions is to smash two walls off the playfield -- one brick at a time.
+
+Use the controller to move the paddle across the bottom of the screen. With the paddle, hit the ball into the wall. Each time the ball hits a brick, the brick disappears and you score points.
+
+A player or team receives five balls per game.  When you miss a ball with your paddle, the ball disappears from the screen. Press the red controller button to serve another ball until all five balls are played.
+
+When a team or player destroys the first brick wall, a second brick wall automatically appears on the screen. Continue to hit the bricks of this wall and score more points. The player or team who can destroy two walls scores the maximum 864 points and wins the game. NOTE: If both opponents destroy the two walls, the team who used the least number of balls wins.
+
+At the end of two-team games, the playfield of both teams or players will flash on and off the screen. That way, players can compare scores. Begin a new game and create a new brick wall by pressing the console Reset button.
+
+
+TO START PLAY
+
+Each Breakout Game is identified by a number at the top of the playfield. (See Breakout Game Descriptions for the game numbers.) One to four players can play each game version. To prepare for the game play:
+o    Select the number of the game you want to play by pressing the console's Game Select switch until the game number appears at the top center of the playfield.
+o    Press the console's Game Select switch to program the game for the number of players. For example, when the number 3 appears in the upper right playfield corner, the game is set for a three-player game.
+o    Press the Game Reset button to start the game action.
+o    Press the red controller button to serve the ball and start game action.
+
+One-Player Games:
+Using the right controller, one players attempts to destroy the two walls using five balls. Or, a player can win by scoring the maximum number of points, 864.
+
+Two-Player Games:
+Two players take turns hitting the wall. Each player receives five balls and a brick wall that appears during a player's turn. One player continues to hit a ball into the wall until he misses the ball. Upon a miss, the opponent's wall appears on the screen. The opponent then takes his turn hitting the ball into the wall. The first player to destroy two walls OR score the most points after playing five balls wins the game.
+
+Three-Player Game:
+Two players act as a team and play against a one-player team. Just as in two-player games, the two teams take turns hitting the ball into the wall. Each team receives five balls and a separate brick wall. When one team misses the ball, the opposing team's wall appears and play begins. The first team to destroy a wall OR score the most points after playing five balls wins the game.
+
+Four-Player Games:
+With two players on each team these games are played just like two and three-player games. The first team to destroy a wall OR score the most points after playing five balls wins the game.
+
+When a team or player destroys the brick wall, a new brick wall automatically appears on the screen. If any bricks still remain on the screen after five balls are played, begin a new game and create a new brick wall by pressing the Reset button.
+
+NOTE: In games with two-players on each team, each player controls a paddle which moves across only half the playfield.
+
+Timed Games:
+Some games rely on speed scores instead of point scores to win. A timer will replace the scoreboard in the upper left corner. Your objective is to destroy the wall in as little time as possible. The timer counts the seconds, as you try to break your own record in one-player games. In two, three and four-player games, your mission is to destroy the wall with five balls in less time than your opponent.
+
+Invisible Games;
+It's the same Breakout action, except this time it's in the dark! The wall is invisible until you hit a brick with the ball. When this happens, you score points and the entire wall lights up.
+
+
+BREAKOUT GLOSSARY
+{TODO caption image}
+
+Brick Wall:
+There are six rows of bricks.  The color of a brick determines the points you score when you hit it with your ball.
+Red - 7 points
+Orange - 7 points
+Yellow - 4 points
+Green - 4 points
+Aqua - 1 point
+Blue - 1 point
+
+Paddle:
+Each player uses a standard Paddle Controller to move the paddle horizontally across the bottom of the play field. With the paddle, a player hits the ball into the wall.
+
+Scoreboard/Timer:
+Depending on what game you play, a Scoreboard or Timer will appear in the left corner.
+o    Scoreboard - Some games determine winners using only point scores. During these games, each player's score appears in this position. Scores are determined by the bricks hit during a game.
+o    Timer - Instead of determining the winner with the point value of bricks, some games feature a Timer in the upper left corner. Your mission during these games is to destroy the walls in as little time as possible. The Timer tracks the cumulative minutes and seconds of each turn.
+
+Number of Players/Team Numbers:
+In this playfield position two numbers will appear at different times during the game.
+
+o    Number of Players:  After you select the game you want to play, you must indicate the number of players. Press the console's Game Select switch until the number of players appears. For example, when number 3 appears, the computer is set for a three-player game.
+o    Team Number:  The team that is currently hitting the ball is designated by a Team Number. In one-player games the number 1 will always appear in this position. In two-player games, each player is designated by the numbers 1 or 2. In three or four-player games, the teams are referred to teams 1 or 2. When your TEAM NUMBER appears, it's your turn to score.
+
+Balls/Game Numbers:
+In this playfield position two numbers will appear at different times during the game.
+
+o    Game Number: Before you begin play, select the game you want to play with the console's Game Select switch. The number that appears refers to the game you will play. (See the following Game Descriptions for game numbers.)
+o    Balls: After you press the console's Reset button, play action can begin. The number 5 appears in this playfield position and refers to the five balls you or your team can serve. Throughout the game, the number will reflect the number of balls that remain.
+
+
+SCORING
+
+In some games, a player scores points by hitting one of the wall's bricks. The bricks are worth points. The number of points is determined by the brick's color:
+Red - 7 points
+Orange - 7 points
+Yellow - 4 points
+Green - 4 points
+Aqua - 1 point
+Blue - 1 point
+
+The first player or team to completely destroy both walls OR score the most points after playing five balls wins the game. Score the maximum number of points, 864, when you destroy both walls.
+
+In other games, you must rely on the speed of your game skill. A timer records the cumulative minutes and seconds of each of your turns during a game. The team or player who destroys both walls with five balls in the least amount of time with five balls wins the game. In one-player games, try to break your own time records.
+
+
+HANDICAP (DIFFICULTY SWITCH)
+
+In "B" position the paddle is 3/4 the size of the paddle when the switch is in the "A" position. Where there are two players on one team, one difficulty switch will affect both paddles.
+
+
+CONTROLLER ACTION
+
+To Serve the Ball:
+Press the red controller button and the ball will appear.
+
+To Move the Paddles:
+To move the paddles across the playfield, turn the controller knob. Turn it clockwise to move the paddle to the right; turn it counter clockwise to move the paddle to the left.
+
+To Steer the Balls:
+Some Breakout and Breakthru games will feature Steerable Balls. In these games you can control the direction of the control knob clockwise to move the ball to the right; turn it counter-clockwise to move the ball to the left.
+
+To Catch the Ball:
+Some Breakout and Breakthru games feature Catch. When the ball makes contact with your paddle, press the red controller. Continue to press the button and the ball will remain on the paddle, allowing you more time to carefully aim your shots. To release the ball, release the red controlle button.
+
+
+BREAKOUT GAMES
+
+GAME 1
+Using a controller, players attempt to smash their way through the wall and score points.
+
+GAME 2
+This game features Steerable Balls so you can make every hit count.
+
+GAME 3
+Take a breather. This game features Catch, which gives you time to play your strategy and aim.
+
+GAME 4
+Don't blink. The only time you'll see your Breakout wall is when the ball hits a brick. The rest of the time you're playing Breakout in the dark.
+
+GAME 5
+The pressure's on. The Time at the top of the playfield will record the time it takes you to complete a Breakout.
+
+GAME 6
+The Timer provides the suspense. The Steerable Balls provide some of the strategy moves you'll make during this game.
+
+GAME 7
+How long does it take? The Time in this game will tick away the seconds as you aim your balls with Catch.
+
+GAME 8
+The wall lights up only when you hit a brick. Then you're playing in the dark again as the Timer records your game time.
+
+
+BREAKTHRU GAMES
+
+{TODO - Caption Image}
+
+Breakthru is played the same way as Breakout games. The only difference is the ball action. Once the ball hits a brick, the ball continues to penetrate the wall, hitting more bricks and scoring more points. Breakthru is plenty of fast ball and paddle action.
+
+GAME 9
+POW!  POW!  POW!  Make a direct hit on a brick and the ball continues traveling through the wall in this basic Breakthru.
+
+GAME 10
+Steerable missiles increase your control over the ball during this fast game of Breakthru.
+
+GAME 11
+Slow the action down with Catch in this Breakthru game.
+
+GAME 12
+The Breakthru wall only appears when you hit a brick. During any other game play it's invisible.
+
+
+PLAYING TIPS
+
+o    The paddle is divided into five sections. Note that the ball bounces off each section at progressively smaller angles after the third, seventh, and eleventh hit. After the twelfth hit, the angle returns to its original size.
+
+o    The ball will speed up after the twelfth consecutive hit OR when it hits any brick in the top three rows. (Speed Bricks)
+
+o    When the ball makes contact with the center section of the paddle, the ball will jump.
+
+
+           |   BREAKOUT    |TIMED BREAKOUT |   BREAKTHRU   |
+           |               |               |               |
+Game Number| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10| 11| 12|
+-----------+---+---+---+---+---+---+---+---+---+---+---+---+
+  Steerable|   |XXX|   |   |   |XXX|   |   |   |XXX|   |   |
+-----------+---+---+---+---+---+---+---+---+---+---+---+---+
+      Catch|   |   |XXX|   |   |   |XXX|   |   |   |XXX|   |
+-----------+---+---+---+---+---+---+---+---+---+---+---+---+
+  Invisible|   |   |   |XXX|   |   |   |XXX|   |   |   |XXX|
+-----------+---+---+---+---+---+---+---+---+---+---+---+---+
+
+-------------------Atari 2600 Instructions Archive-------------------
