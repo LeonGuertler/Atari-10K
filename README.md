@@ -30,8 +30,11 @@ The following captioning strategy was used for all relevant figures in the game 
 
 below we provide an example of such an image-caption pair for Figure1 for the Mario Bros. game.
 
-!(alt text)[
+Figure1:
+![alt text](https://github.com/LeonGuertler/Atari-10K/blob/main/manuals/MarioBros/Figures/Figure1.png?raw=true)
 
+GTP-4-V generated Caption (with adjusted formating for ease of reading):
+In a screenshot from the Atari 2600 game 'Mario Bros', two gameplay sections are depicted, separated vertically:\nUpper Section:\n\tLabeled 'Mario'\n\tDisplays a dark background, representing the game arena.\n\tMario, dressed in his signature blue and red attire, stands on a platform on the left side.\n\tOn the right, there's a small enemy creature with a crown.\n\tAbove Mario is a scoreboard, showing '050400' points.\n\tAbove the enemy, there's a numerical indication of the game round: '1'.\n\tVarious platforms and ladders are seen, which players can utilize to navigate the level.\n\nLower Section:\n\tLabeled 'Luigi'\n\tShows a similar dark game arena.\n\tLuigi, in green attire, is on the right side, near a turtle enemy.\n\tAnother enemy, which looks like a coin, is located on a platform below Luigi.\n\tLuigi's score of '064010' points is shown on the bottom.\n\tThe game round is also indicated as '1', shown near the bottom center.\n\tLike the upper section, multiple platforms and ladders are present, providing strategic pathways for the players.\nBoth sections demonstrate the platform-based design of the game and emphasize the importance of navigating through the level, avoiding or defeating enemies, and accumulating points.
 
 
 TODO: Provide an example Image-Caption pair pointing out how GPT-4-V instroduces additional information (from it's pretraining) (which is no issue), and that the captions can probably be improved if more context from the manual is provided.
