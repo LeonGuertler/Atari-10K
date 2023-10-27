@@ -30,3 +30,6 @@ GPT-4-Vision prompt:
 The following captioning strategy was used for all relevant figures in the game manuals:
  - provide a screenshot of the specific figure to GPT-4-Vision
  - propmt: "The above is a screenshot of a figure in the atari 2600 {GAME-NAME} manual. I want to use the text transcription of the manual to better train AI agents, and to that end, need an as specific as possible caption of the image. Please consider be as specific in terms of location, description, and usefulness for actually playing the game as possible."
+
+
+TODO: Provide an example Image-Caption pair pointing out how GPT-4-V instroduces additional information (from it's pretraining) (which is no issue), and that the captions can probably be improved if more context from the manual is provided.
