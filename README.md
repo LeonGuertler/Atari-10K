@@ -13,6 +13,7 @@ TODO:
 - In the text version of each manual, reference the figure number (corresponding to the externally labeled image and json caption)
 - double check that all game versions match those in the gymnasium environments
 - for each game, create a small document pointing out which game-mode is used (the manual usually explains a number of different ones) and how the described controls translate to the one the AI is able to use.
+- the GPT-4-V descriptions introduce a good amount of information that is not shown on the actual Figures. Maybe provide the before the figure and after the figure context as well.
 
 
 For ease of use we provide both the pdf version of the manuals, as well as the text version. Where relevant, we have used GPT-4-Vision to caption the various Figures in the manuals for the text version (See Section X for the specific prompt used). The figures and generated captions can be found in the environment folders under "Figures" and "figure_captions.json" respectively (where the png name corresponds to the Json keys as well as the references to the figures in the .txt file).
