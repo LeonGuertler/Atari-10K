@@ -25,19 +25,48 @@ TODO:
 
 GPT-4-Vision prompt:
 The following captioning strategy was used for all relevant figures in the game manuals:
- - provide a screenshot of the specific figure to GPT-4-Vision
- - propmt: "The above is a screenshot of a figure in the atari 2600 {GAME-NAME} manual. I want to use the text transcription of the manual to better train AI agents, and to that end, need an as specific as possible caption of the image. Please consider be as specific in terms of location, description, and usefulness for actually playing the game as possible."
+1. provide a screenshot of the specific figure to GPT-4-Vision
+2. propmt: "The above is a screenshot of a figure in the atari 2600 {GAME-NAME} manual. I want to use the text transcription of the manual to better train AI agents, and to that end, need an as specific as possible caption of the image. Please consider be as specific in terms of location, description, and usefulness for actually playing the game as possible."
 
-below we provide an example of such an image-caption pair for Figure1 for the Mario Bros. game.
+Below we provide an example of such an image-caption pair for Figure1 for the Mario Bros. game.
 
-Figure1:
-![alt text](https://github.com/LeonGuertler/Atari-10K/blob/main/manuals/MarioBros/Figures/Figure1.png?raw=true)
+### Figure1
+<p align="center">
+  <img src="https://github.com/LeonGuertler/Atari-10K/blob/main/manuals/MarioBros/Figures/Figure1.png?raw=true" width="250">
+</p>
 
-GTP-4-V generated Caption (with adjusted formating for ease of reading):
-In a screenshot from the Atari 2600 game 'Mario Bros', two gameplay sections are depicted, separated vertically:\nUpper Section:\n\tLabeled 'Mario'\n\tDisplays a dark background, representing the game arena.\n\tMario, dressed in his signature blue and red attire, stands on a platform on the left side.\n\tOn the right, there's a small enemy creature with a crown.\n\tAbove Mario is a scoreboard, showing '050400' points.\n\tAbove the enemy, there's a numerical indication of the game round: '1'.\n\tVarious platforms and ladders are seen, which players can utilize to navigate the level.\n\nLower Section:\n\tLabeled 'Luigi'\n\tShows a similar dark game arena.\n\tLuigi, in green attire, is on the right side, near a turtle enemy.\n\tAnother enemy, which looks like a coin, is located on a platform below Luigi.\n\tLuigi's score of '064010' points is shown on the bottom.\n\tThe game round is also indicated as '1', shown near the bottom center.\n\tLike the upper section, multiple platforms and ladders are present, providing strategic pathways for the players.\nBoth sections demonstrate the platform-based design of the game and emphasize the importance of navigating through the level, avoiding or defeating enemies, and accumulating points.
+### GTP-4-V Generated Caption (formatted for clarity)
+<blockquote>
+<i>
+"In a screenshot from the Atari 2600 game 'Mario Bros', two gameplay sections are depicted, separated vertically:*
+</i>
+<ul>
+<li><i>Upper Section:</i></li>
+  <ul>
+  <li><i>Labeled 'Mario'</i></li>
+  <li><i>Displays a dark background, representing the game arena.</i></li>
+  <li><i>Mario, dressed in his signature blue and red attire, stands on a platform on the left side.</i></li>
+  <li><i>On the right, there's a small enemy creature with a crown.</i></li>
+  <li><i>Above Mario is a scoreboard, showing '050400' points.</i></li>
+  <li><i>Above the enemy, there's a numerical indication of the game round: '1'.</i></li>
+  <li><i>Various platforms and ladders are seen, which players can utilize to navigate the level.</i></li>
+  </ul>
+<li><i>Lower Section:</i></li>
+  <ul>
+  <li><i>Labeled 'Luigi'</i></li>
+  <li><i>Shows a similar dark game arena.</i></li>
+  <li><i>Luigi, in green attire, is on the right side, near a turtle enemy.</i></li>
+  <li><i>Another enemy, which looks like a coin, is located on a platform below Luigi.</i></li>
+  <li><i>Luigi's score of '064010' points is shown on the bottom.</i></li>
+  <li><i>The game round is also indicated as '1', shown near the bottom center.</i></li>
+  <li><i>Like the upper section, multiple platforms and ladders are present, providing strategic pathways for the players.
+</i></li>
+</ul>
+<i>
+Both sections showcase the game's platform design, emphasizing level navigation, enemy evasion or defeat, and point accumulation."
+</i>
+</blockquote>
 
-
-TODO: Provide an example Image-Caption pair pointing out how GPT-4-V instroduces additional information (from it's pretraining) (which is no issue), and that the captions can probably be improved if more context from the manual is provided.
-
+As can be seen in the above provided example, GPT-4-V adds additional information to the captions which is not provided in the image (esp. the last part). Since the purpose of this benchmark is to, among other things, leverage the internal world of LLMs, the additional information provided by GPT-4-V is not a problem, but rather a welcome addition. It is also worth pointing out that, as discussed above, the images a captioned based on a static prompt and the image, rather than the image in the context of the manual. For the image-caption paris we manually inspected, this does not seem to be an issue, but might nevertheless be a worthwile avenue for improving model performance (or better yet, accepting the full manual as a multi-model input).
 
 
