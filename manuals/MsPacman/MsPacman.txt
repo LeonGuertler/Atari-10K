@@ -1,0 +1,170 @@
+ATARI (R) 2600 (TM)
+
+*MS. PAC-MAN
+
+{Figure1}
+
+* MS. PAC-MAN and characters are trademark of Bally Midway Mfg. Co. sublicensed to Atari, Inc. by Namco-America, Inc.
+
+ATARI welcomes your comments. Please address all correspondence to:
+
+                               ATARI, CORP
+                           Sunnyvale, CA 94086
+
+NOTE: Always turn the console POWER switch OFF before inserting or removing an ATARI (R) Game Program (TM) cartridge. This will protect the electronic components and prolong the life of your ATARI 2600 (TM) Video Computer System (TM) game.
+
+(C) 1987 ATARI, CORP. ALL RIGHTS RESERVED
+
+
+TABLE OF CONTENTS
+
+1. THE BEAUTY QUEEN OF VIDEO GAMES
+2. GAME PLAY
+3. USING THE CONTROLLER
+4. CONSOLE CONTROLS
+5. GAME VARIATIONS
+6. SCORING
+7. HINTS FOR SURVIVAL
+8. YOUR BEST GAME SCORES
+
+
+1. THE BEAUTY QUEEN OF VIDEO GAMES
+
+{Figure2}
+
+By now you've probably spent some time playing the master of mazes -- PAC-MAN *. Well, lookout PAC-MAN lovers, ATARI is proud to bring you the "femme fatale" of computer video game world -- MS. PAC-MAN!
+
+That's right, she's here in all her shining glory. MS. PAC-MAN is sure to steal your heart with her grace and charm.
+
+* Trademark of Bally Midway Mfg. Co. licensed by Namco-America, Inc.
+
+And she's all dolled up with a ribbon in her hair. Just like the arcade MS. PAC-MAN, this ATARI home version has multiple mazes, floating fruit, pretzels, an end-of-game cartoon, and four fearless ghosts -- Inky, Blinky, Pinky, and Sue.
+
+Get ready to feast your eyes on the original video beauty queen. She's ready to bring you many delightful hours of fun and excitement. So, sit back, relax and have a good time playing MS. PAC-MAN.
+
+2. GAME PLAY
+
+The object of the game is to score as many points as you can while MS. PAC-MAN eats dots, fruit, pretzels, energy pills, and ghosts. Score 10,000 points and earn a bonus MS. PAC-MAN life.
+
+The game starts with three MS. PAC-MAN lives, which are indicated by three MS. PAC-MAN symbols at the lower left corner of the screen. When game play begins, MS. PAC-MAN is located close to the center of the screen, just below the ghosts' reincarnation chamber in the center of the maze (see Figure 1).
+
+Use your Joystick controller to guide MS. PAC-MAN around the maze. When she passes over dots, she gobbles them up, and you score points. If she eats all the dots on the screen, the maze flashes momentarily, and you start playing on a new maze.
+
+Figure 1 {Figure3}
+
+MS. PAC-MAN encounters floating fruit and pretzels while traveling around the maze. Gobble up these munchies, and you score bonus points. But watch out! Fearful ghosts scurry about trying to gobble up MS. PAC-MAN. Her only recourse is to eat an energy pill and then go after the ghosts.
+
+As soon as she gulps down the energy pill, the ghosts turn blue with fright. You earn 200 points for the first ghost, 400 points for the second ghost, 800 for the third ghost, and a whopping 1600 points for the fourth ghost, all on the same energy pill. (See Section 6, SCORING, for details about point values.)
+
+Unfortunately, the effects of the energy pills are short-lived, so you'll have to move fast. After the ghosts are gobbled up, their eyes head back to the chamber in the center of the screen for reincarnation. If you don't gobble up the ghosts, they start to blink just before they turn back to their original colors.
+
+3. USING THE CONTROLLER
+
+Use one Joystick Controller with the ATARI Game Program cartridge. Be sure to plug the controller cable firmly into the LEFT CONTROLLER jack at the back of your ATARI 2600 Video Computer System console. Hold the controller with the red button to your upper left, toward the television screen. (See your Owner's Manual for further details.)
+
+Use the Joystick to maneuver MS. PAC-MAN up, down, right and left around the maze. Use it also to slide MS. PAC-MAN in and out of tunnels on both sides of the maze.
+
+Figure 2 {Figure4}
+
+If MS. PAC-MAN exits on the right, she re-enters on the left; if she exits on the left, she re-enters on the right (see Figure 2).
+
+4. CONSOLE CONTROLS
+
+GAME SELECT SWITCH
+
+Use the GAME SELECT switch to choose the game variation you want to play. Press this switch and the game variation changes as indicated by the number in the lower right corner of the screen. Read Section 5, GAME VARIATIONS, for more information about different game variations. (See Figure 3.)
+
+Figure 3 {Figure5}
+
+GAME RESET SWITCH
+
+Once you have selected the game variation you want to play, press the GAME RESET switch to start the game. Pressing the red controller button also starts the game.
+
+DIFFICULTY SWITCHES
+
+RIGHT and LEFT DIFFICULTY switches are not used in this game.
+
+TV TYPE SWITCH
+
+Set this switch to COLOR if you're playing on a color television set. Set it to B-W to play the game on a black and white television.
+
+5. GAME VARIATIONS
+
+The ATARI MS. PAC-MAN includes the following four game variations:
+
+CHERRIES:
+An arcade version MS. PAC-MAN. Just like the original game, MS. PAC-MAN is pursued by four ghosts.
+
+ONE BEAR:
+A good choice for beginners. MS. PAC-MAN is pursued by only one ghost.
+
+TWO BEARS:
+A novice player's choice. MS. PAC-MAN is pursued by only two ghosts.
+
+THREE BEARS:
+An intermediate player's choice. MS. PAC-MAN is pursued by only three ghosts.
+
+All four game variations start at the easiest level, cherries. Games then progress to the highest level, banana. If you survive the banana level, the mazes alternate between maze three and maze four. Every two times the maze is cleared of dots, the fruits are randomly selected, and the time the ghosts stay blue decreases.
+
+6. SCORING
+
+You begin the game with three MS. PAC-MAN lives which are indicated at the lower left side of the screen. Your score is displayed at the bottom center of the screen (see Figure 4).
+
+Figure 4 {Figure6}
+
+You earn a bonus MS. PAC-MAN life after the first 10,000 points you score.
+
+Here's how points are scored:
+
+DOT             10 POINTS
+ENERGY PILL     50 POINTS
+
+CHERRY          100 POINTS
+STRAWBERRY      200 POINTS
+ORANGE          500 POINTS
+PRETZEL         700 POINTS
+APPLE           1000 POINTS
+PEAR            2000 POINTS
+BANANA          5000 POINTS
+
+FIRST GHOST     200 POINTS
+SECOND GHOST    400 POINTS
+THIRD GHOST     800 POINTS
+FOURTH GHOST    1600 POINTS
+
+7. HINTS FOR SURVIVAL
+
+Practice clearing the maze of dots before trying to gobble up the ghosts.
+
+Stay close to an energy pill before eating it, and tease the ghosts into moving toward you. When the ghosts get close, eat the energy pill and gobble up as many ghosts as you can.
+
+Use the openings in the maze as escape tunnels. Move to either side to quickly evade the ghosts. Don't forget, different mazes have different tunnels.
+
+                         8. YOUR BEST GAME SCORES
+
+Name:           Date:      Game Variation    Score:
+____________    _____      _______________   _______
+____________    _____      _______________   _______
+____________    _____      _______________   _______
+____________    _____      _______________   _______
+____________    _____      _______________   _______
+____________    _____      _______________   _______
+
+
+
+
+MS. PAC-MAN *
+
+
+
+
+ATARI, CORP. Sunnyvale, CA 94086
+
+C019741-75/A REV. 1.2675  (C) 1987 ATARI, CORP. ALL RIGHTS RESERVED
+
+PRINTED IN HONG KONG
+
+B.T.5.1988
+
+-------------------Atari 2600 Instructions Archive-------------------
+

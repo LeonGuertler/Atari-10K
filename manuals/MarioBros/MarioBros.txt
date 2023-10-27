@@ -1,0 +1,155 @@
+MARIO BROS.
+
+by Nintendo
+c 1983
+
+NOTE:  Always turn the console POWER switch OFF when inserting or removing an ATARI Game Program(tm) cartridge. This will protect the electronic components and prolong the life of your ATARI Video Computer System(tm) game.
+
+
+
+GAME PLAY
+---------
+
+Mario the carpenter and his brother Luigi are hopping mad!  The water pipes in their house are blocked with nests of crawling creatures. If the two brothers can't get rid of them they'll never take a bath again!
+
+Your task is to help Mario and Luigi knock the pipe pests off floors and into a puddle of water below. Each time a pest is knocked off, you earn points; when all the pests are knocked off, the next round begins. You start the game with five lives, and earn additional lives every 20,000 points.
+
+To jump from floor to floor, press the controller button while Mario or Luigi is running to the right or left. To jump straight up, press the button when Mario or Luigi is standing still.
+
+{Figure1}
+
+{Figure2}
+
+
+THE PESTS
+
+Knocking off a pest is a two-part maneuver: First punch the floor directly beneath a pest to flip it onto its back, then jump up to the floor and kick the pest off before it recovers. The pipe dwelling pests are:
+
+Shellcreepers:  To eliminate a shellcreeper, hit it once from below, then kick it off the floor before it starts crawling again.
+                
+Sidesteppers:   Sidesteppers are harder to knock off.  The first time you hit one, it becomes enrages and moves faster than before. Hit it again, and it will flip over.
+
+Fighterflies:   Fighterflies hop from one section of the floor to another; the only time you can flip one over is when its body is touching the floor.
+
+
+BONUS WAFERS AND COIN PHASE
+
+Earn 800 extra points for every bonus wafer you pick up. A wafer comes out of a water pipe each time a pest is kicked of a floor.
+
+At certain times during the game the pests disappear and a coin phase begins. During a coin phase the screen is filled with dangling coins; you are given 15 seconds to collect as many coins as possible. A timer at the bottom of the screen counts down the seconds.
+
+
+THE POW SWITCH
+
+The POW switch is located on your screen between the two lowest floors (see Figure 1). If Mario or Luigi hits the POW switch, it delivers a punch to all the pests on the screen. You many use the POW switch three times before it disappears, and then receive a new POW switch every ten rounds.
+
+
+SLIPICE
+
+In higher levels of game play you'll encounter Slipice, an evil iceman who can freeze floors into slippery ice. Prevent him from freezing floors by punching him from below. You may also kick Slipice when he's melting into the floor.
+
+
+FIREBALLS
+
+During the game you'll encounter blazing-hot fireballs that can fry Mario or Luigi to a crisp. Avoid fireballs by jumping over them, or jumping to another level.
+
+
+TWO-PLAYER GAME
+
+In two-player games one player controls Mario while the other player controls Luigi. This opens up new worlds of game-playing strategy. For example, you can play as a team with one player punching the pipe-pests and the other player kicking pests off floors. Or you can compete with each other to see who can achieve the best score. Watch out for sneak attacks--your opponent may punch a pest back onto its feet just before you're about to kick it off a floor!
+
+
+
+GAME VARIATIONS
+---------------
+
+There are eight game variations in MARIO BROS. You can select the number of players, the number of lives, and the occurence of fireballs. (See chart below for more details.)
+
+In the two-player version, Mario's score and lives remaining appear at the top of the screen; Luigi's score and lives remaining appear at the bottom of the screen.
+
+__________________________________________________________________
+|        |                     |             |                   |
+|  Game  |  Number of Players  |  Fireballs  |  Number of Lives  |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   1    |          1          |     yep     |         5         |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   2    |          2          |     yep     |         5         |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   3    |          1          |     nope    |         5         |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   4    |          2          |     nope    |         5         |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   5    |          1          |     yep     |         3         |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   6    |          2          |     yep     |         3         |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   7    |          1          |     nope    |         3         |
+|________|_____________________|_____________|___________________|
+|        |                     |             |                   |
+|   8    |          2          |     nope    |         3         |
+|________|_____________________|_____________|___________________|
+
+
+
+CONSOLE CONTROLS
+----------------
+
+Press GAME SELECT to choose a skill level. Press GAME RESET to return to the game option screen during game play. The DIFFICULTY  and TV TYPE switches have no function in this game.
+
+
+
+USING THE CONTROLLERS
+---------------------
+
+Plug one controller into the LEFT CONTROLLER jack for one-player games; plug a second controller into the RIGHT CONTROLLER jack for two-player games. Hold the controller with the red fire button to your upper left, toward the television scree.
+
+Press the red button on the left controller to start a game.
+
+Use your joystick to turn Mario or Luigi right or left; use the red controller button to make Mario or Luigi jump.
+
+
+
+SCORING
+-------
+
+__________________________________________________________
+|                                             |          |
+|                                             |  POINTS  |
+|_____________________________________________|__________|
+|                                             |          |
+|  Kicking a pest off a floor:                |    800   |
+|_____________________________________________|__________|
+|                                             |          |
+|  Kicking the iceman (Slipice) off a floor:  |    800   |
+|_____________________________________________|__________|
+|                                             |          |
+|  Bonus Wafer:                               |    800   |
+|_____________________________________________|__________|
+|                                             |          |
+|  Bonus coin:                                |    800   |
+|_____________________________________________|__________|
+|                                             |          |
+|  Punching the iceman (Slipice):             |    500   |
+|_____________________________________________|__________|
+
+
+
+HELPFUL HINTS
+-------------
+
+* Use your POW switch when there is more than one pest on the screen.
+
+* Watch out for the last pest on the screen--it will speed up and be much harder to punch.
+
+* Try to hit a Sidestepper two times as quickly as possible.  If you're fast, you can flip it over before it scurries off to a different level.
+
+* Learn the fastest routs to pick up coins during a coin phase
+
+* You'll earn more points for kicking rather than punching Slipice. Slipice always stops on the lowest unfrozen floor. Wait for him to stop, then kick him off before he freezes the floor.
