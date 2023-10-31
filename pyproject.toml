@@ -5,6 +5,7 @@ description = "Atari 10k dataset
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pymupdf = "^1.23.5"
 
 [tool.poetry.files]
 include = ["*.py", "README.md", "LICENSE", "manuals/*"]
