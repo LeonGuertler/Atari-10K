@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "atari_10k"
+name = "example"
 version = 1.0
 description = "Atari 10k dataset"
 
