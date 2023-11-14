@@ -3,6 +3,9 @@ name = "example"
 version = 1.0
 description = "Atari 10k dataset"
 
+[options]
+packages = find:
+
 [tool.poetry.dependencies]
 python = "^3.8"
 pymupdf = "^1.23.5"
