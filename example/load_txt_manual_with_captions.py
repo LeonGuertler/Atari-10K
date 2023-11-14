@@ -1,6 +1,6 @@
 """Example code for interfacing with the atari 2600 manuals."""
 import json
-import os
+from PIL import Image
 import fitz
 import pkgutil
 
@@ -46,6 +46,8 @@ def load_manual_images(env_name="MsPacman") -> list:
         pix = page.get_pixmap()
         img = fitz.Pixmap(pix)
         images.append(img)
+    # convert the images to PIL images
+    images = [Image.frombytes("RGB", [img.width, img.height], img.samples) for img in images]
 
     # 2. Return the images
     return images
@@ -55,5 +57,3 @@ if __name__ == "__main__":
     print(load_manual_text(env_name="Alien"))
     ## test the pdf to images functionality by saving the images
     images = load_manual_images(env_name="Alien")
-    for i, image in enumerate(images):
-        image.save(f"Alien_{i}.png")
