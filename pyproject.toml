@@ -1,15 +1,24 @@
 [build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
 
-[tool.poetry]
+[project]
 name = "example"
-version = 1.0
-description = "Atari 10k dataset"
+version = "0.0.1"
+description = "A package holding the Atari 10k dataset and a few useful functions for working with it."
+authors = [
+  { name = "Leon Guertler", email = "" },
+  { name = "Dylan Hillier", email = "" },
+]
+license = { file = "LICENSE" }
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.8"
+dependencies = []
 
-[tool.poetry.dependencies]
-python = "^3.8"
-pymupdf = "^1.23.5"
-
-[tool.poetry.files]
-include = ["*.py", "README.md", "LICENSE", "manuals/*"]
+[project.urls]
+"Homepage" = "https://github.com/LeonGuertler/Atari-10K"
