@@ -23,7 +23,7 @@ dependencies = [
 ]
 
 [tool.flit.external-data]
-directory = "manuals"
+directory = "example/manuals"
 
 [project.urls]
 "Homepage" = "https://github.com/LeonGuertler/Atari-10K"
