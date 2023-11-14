@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "atari_10k"
 version = 1.0
-description = "Atari 10k dataset
+description = "Atari 10k dataset"
 
 [tool.poetry.dependencies]
 python = "^3.8"
