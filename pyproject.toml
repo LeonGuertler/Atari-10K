@@ -18,7 +18,12 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 requires-python = ">=3.8"
-dependencies = []
+dependencies = [
+    "PyMuPDF >=1.18.14,<2",
+]
+
+[tool.flit.external-data]
+directory = "manuals"
 
 [project.urls]
 "Homepage" = "https://github.com/LeonGuertler/Atari-10K"

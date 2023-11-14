@@ -4,8 +4,6 @@ import os
 import fitz
 import pkgutil
 
-pkg_name = "atari10krl"
-
 def load_manual_text(env_name="MsPacman") -> str:
     """
     Load the text manual with the captioned images for a given environment.
