@@ -7,8 +7,8 @@ name = "example"
 version = "0.0.1"
 description = "A package holding the Atari 10k dataset and a few useful functions for working with it."
 authors = [
-  { name = "Leon Guertler", email = "" },
-  { name = "Dylan Hillier", email = "" },
+  { name = "Leon Guertler", email = "abc@gmail.com" },
+  { name = "Dylan Hillier", email = "def@gmail.com" },
 ]
 license = { file = "LICENSE" }
 readme = "README.md"
