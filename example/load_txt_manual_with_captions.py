@@ -2,24 +2,24 @@
 import json
 import os
 import fitz
+import pkgutil
 
-def load_manual_text(env_name="MsPacman", path_to_manuals=os.path.join("..", "manuals")) -> str:
+pkg_name = "atari10krl"
+
+def load_manual_text(env_name="MsPacman") -> str:
     """
     Load the text manual with the captioned images for a given environment.
     inputs:
         env_name (str): The string name of the atari 2600 environment
-        path_to_manuals (str): The path to the manuals directory
     outputs:
         manual (str): The text manual for the given environment
     """
 
     # 1. Load the text manual
-    with open(os.path.join(path_to_manuals, env_name, f"{env_name}.txt"), "r") as f:
-        manual = f.read()
+    manual = pkgutil.get_data(__name__, f"manuals/{env_name}/{env_name}.txt").decode()
 
     # 2. Load the captioned images .json file 
-    with open(os.path.join(path_to_manuals, env_name, f"figure_captions.json"), "r") as f:
-        captions = json.load(f)
+    captions = json.loads(pkgutil.get_data(__name__, f"manuals/{env_name}/figure_captions.json").decode())
 
     # 3. Wrap the captions in the appropriate markdown
     for key, value in captions.items():
@@ -31,19 +31,18 @@ def load_manual_text(env_name="MsPacman", path_to_manuals=os.path.join("..", "ma
     # 5. Return the manual
     return manual
 
-def load_manual_images(env_name="MsPacman", path_to_manuals=os.path.join("..", "manuals")) -> list:
+def load_manual_images(env_name="MsPacman") -> list:
     """
     Load the text manual with the images for a given environment
     inputs:
         env_name (str): The string name of the atari 2600 environment
-        path_to_manuals (str): The path to the manuals directory
     outputs:
         images (list): A list of images for the given environment corresponding
             to the pages of the manual.
     """
-    path = os.path.join(path_to_manuals, env_name, f"{env_name}.pdf")
     # 1. Convert the pdf to images
-    doc = fitz.open(path)
+    pdf_data = pkgutil.get_data(__name__, f"manuals/{env_name}/{env_name}.pdf")
+    doc = fitz.open(stream=pdf_data, filetype="pdf")
     images = []
     for page in doc:
         pix = page.get_pixmap()
@@ -55,8 +54,8 @@ def load_manual_images(env_name="MsPacman", path_to_manuals=os.path.join("..", "
 
 
 if __name__ == "__main__":
-    print(load_manual_text(env_name="Alien", path_to_manuals="manuals"))
+    print(load_manual_text(env_name="Alien"))
     ## test the pdf to images functionality by saving the images
-    images = load_manual_images(env_name="Alien", path_to_manuals="manuals")
+    images = load_manual_images(env_name="Alien")
     for i, image in enumerate(images):
         image.save(f"Alien_{i}.png")
