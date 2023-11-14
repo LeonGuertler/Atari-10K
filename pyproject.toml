@@ -6,6 +6,10 @@ description = "Atari 10k dataset"
 [options]
 packages = find:
 
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
 [tool.poetry.dependencies]
 python = "^3.8"
 pymupdf = "^1.23.5"
